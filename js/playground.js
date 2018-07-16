@@ -10,6 +10,8 @@ class Playground {
         };
 
         this.generate(); 
+
+
     }
 
     generate(){
