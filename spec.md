@@ -27,7 +27,7 @@ ahová lépni akar a fej, akkor vége a játéknak.
 * A kígyó testét egy tömbben tároljuk és lépés esetén minden tömbelem az 
 előző helyébe lép.
 
-## Potok és eledel
+## Pontok és eledel
 * A points változóban tároljuk az aktuális pontokat.
 * Egy eledel egy pontot ér.
 * Random jelenik meg egyszerre egy eledel.
